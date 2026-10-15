@@ -1,0 +1,17 @@
+Beyond the Effort — sound and motion revision
+
+No spoken narration. Original arrangement and sound editing for this video.
+
+Footstep source: Kenney, Starter Kit FPS, sounds/walking.ogg.
+https://github.com/KenneyNL/Starter-Kit-FPS
+Commit: 185fd2326d74a5cf858cffc616f87cf9696f9cc0
+Sound effects are CC0, as stated in the repository README.
+
+Piano and cello samples: VS Chamber Orchestra: Community Edition.
+Recorded by Sam Gossner & Simon Dalzell; sample cutting by Elan Hickler/Soundemote.
+https://github.com/sgossner/VSCO-2-CE
+Commit: 440300901dfe9275fd84e0b7763af1f8443ae62e
+License: CC0 1.0 Universal.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+The score is a new arrangement using individual instrument samples, not an existing song recording. Movement details and small room reflections are edited from the footstep source. User-uploaded book manuscripts and reference videos are not included in this publication.
