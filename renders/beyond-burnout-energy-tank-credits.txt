@@ -1,0 +1,28 @@
+Energy tank — Beyond Burnout concept explainer
+30 seconds | 1080 x 1920 | English captions | No spoken narration
+Animation and original sound arrangement produced with HyperFrames 0.8.159.
+
+Water field recording: Stream, by gluckose. CC0.
+https://freesound.org/people/gluckose/sounds/333987/
+Asset mirror: https://github.com/rafaelmardojai/blanket
+Commit: 775f2a767230a9681850d1b1e085be58656f1382
+File: data/resources/sounds/stream.ogg
+Asset-specific license: SOUNDS_LICENSING.md (Stream — gluckose — CC0).
+
+Material source for designed pump/valve foley: Kenney, Starter Kit FPS.
+https://github.com/KenneyNL/Starter-Kit-FPS
+Commit: 185fd2326d74a5cf858cffc616f87cf9696f9cc0
+File: sounds/walking.ogg. Sound effects are CC0 per repository README.
+Edited and filtered fragments are used as friction and contact sounds;
+this is designed foley, not a recording of the depicted pump.
+
+Piano and cello: VS Chamber Orchestra: Community Edition.
+Recorded by Sam Gossner & Simon Dalzell; sample cutting by Elan Hickler/Soundemote.
+https://github.com/sgossner/VSCO-2-CE
+Commit: 440300901dfe9275fd84e0b7763af1f8443ae62e
+License: CC0 1.0 Universal.
+https://creativecommons.org/publicdomain/zero/1.0/
+The score is an original arrangement of individual instrument samples.
+
+The energy tank is a visual metaphor, with no numerical health measurements.
+User-uploaded book manuscripts and reference videos are not included in this publication.
