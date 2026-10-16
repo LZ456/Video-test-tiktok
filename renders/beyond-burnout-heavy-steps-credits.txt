@@ -1,0 +1,19 @@
+Heavy steps — Beyond Burnout concept explainer
+30 seconds | 1080 x 1920 | English captions | No spoken narration
+Animation and original sound arrangement produced with HyperFrames 0.8.159.
+
+Footsteps and edited shoe friction: Kenney, Starter Kit FPS.
+https://github.com/KenneyNL/Starter-Kit-FPS
+Commit: 185fd2326d74a5cf858cffc616f87cf9696f9cc0
+File: sounds/walking.ogg. Sound effects are CC0 per repository README.
+
+Piano and cello: VS Chamber Orchestra: Community Edition.
+Recorded by Sam Gossner & Simon Dalzell; sample cutting by Elan Hickler/Soundemote.
+https://github.com/sgossner/VSCO-2-CE
+Commit: 440300901dfe9275fd84e0b7763af1f8443ae62e
+License: CC0 1.0 Universal.
+https://creativecommons.org/publicdomain/zero/1.0/
+The score is a new arrangement of individual recorded instrument samples.
+
+The walking sequence illustrates effort and declining energy; it is not a diagnostic test.
+User-uploaded manuscripts and reference videos are not included in this publication.
