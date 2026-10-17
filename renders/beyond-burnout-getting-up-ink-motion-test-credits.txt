@@ -1,0 +1,17 @@
+Getting up — ink character and motion study
+2026-10-17
+
+8 seconds; 1080 x 1920; 30 fps; H.264 yuv420p; silent.
+This is a visual direction and motion sample, not the final 30-second video.
+English captions retain the first two approved lines; the second cue is shortened to fit this sample.
+
+Artwork: newly generated original ink illustrations via OpenAI image generation, using the original style B proposal as the character reference.
+Motion: RIFE NCNN Vulkan release 20221029, model v4.6, CPU mode; generated key poses and model inbetweening.
+RIFE NCNN implementation: https://github.com/nihui/rife-ncnn-vulkan (MIT, copyright 2020 nihui).
+RIFE research: https://github.com/hzwer/ECCV2022-RIFE
+Video assembly and caption composition: FFmpeg.
+Caption font: DejaVu Sans, https://dejavu-fonts.github.io/
+
+No spoken narration, music or sound effects in this motion review.
+No uploaded book manuscript, reference clip or third-party soundtrack is included.
+The earlier three delivered videos are preserved separately.
