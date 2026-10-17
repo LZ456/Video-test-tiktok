@@ -1,0 +1,26 @@
+slower-pedals — Beyond Burnout concept explainer
+30 seconds | 1080 x 1920 | 30 fps | English captions | No spoken narration
+Animation: HyperFrames 0.8.167; original articulated character animation.
+
+name: Kenney Starter Kit FPS
+url: https://github.com/KenneyNL/Starter-Kit-FPS
+commit: 185fd2326d74a5cf858cffc616f87cf9696f9cc0
+file: sounds/walking.ogg
+license: CC0
+use: Edited contacts, friction and rolling texture
+
+name: VSCO 2 CE
+url: https://github.com/sgossner/VSCO-2-CE
+commit: 440300901dfe9275fd84e0b7763af1f8443ae62e
+license: CC0
+use: Original sparse piano/cello arrangement
+
+name: Wind — Porrumentzio
+author: felix.blume
+url: https://freesound.org/people/felix.blume/sounds/217506/
+mirror: https://github.com/rafaelmardojai/blanket
+license: CC0
+use: Quiet outdoor ambience
+
+VSCO recorded by Sam Gossner and Simon Dalzell; sample cutting by Elan Hickler / Soundemote. Original musical arrangement from individual samples.
+All listed sound sources are CC0.
