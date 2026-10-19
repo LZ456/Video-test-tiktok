@@ -1,0 +1,21 @@
+beyond-burnout-mountain-climb-ink
+2026-10-19
+30 seconds; 1080x1920; 30 fps; H.264 yuv420p + AAC stereo 48 kHz.
+English captions retain the previously approved words and cue timing. No narration or music.
+Further reading: Beyond Burnout appears only in the final two seconds.
+
+Artwork: original OpenAI image generation, consistent ink character and newly generated action poses.
+Inbetweens: RIFE NCNN release 20221029, model v4.6 (CPU). https://github.com/nihui/rife-ncnn-vulkan
+Composition and encoding: FFmpeg. Font: DejaVu Sans. https://dejavu-fonts.github.io/
+The finished frame size is 1080x1920; the generated keyframe art is smaller and has been scaled for composition.
+This is a motion illustration, not live action footage.
+
+Audio sources:
+Soft contact/footstep effects edited from Kenney Starter Kit FPS sounds/walking.ogg (CC0).
+https://github.com/KenneyNL/Starter-Kit-FPS/tree/185fd2326d74a5cf858cffc616f87cf9696f9cc0
+The project README explicitly licenses included sound effects under CC0.
+Wind recording: felix.blume, via Blanket; CC0.
+https://freesound.org/people/felix.blume/sounds/217506/
+https://github.com/rafaelmardojai/blanket/blob/master/SOUNDS_LICENSING.md
+
+No uploaded manuscripts, reference clips or third-party music are included.
