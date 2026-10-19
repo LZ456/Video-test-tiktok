@@ -1,0 +1,15 @@
+1
+00:00:00,100 --> 00:00:04,800
+You're still pedaling.
+
+2
+00:00:05,100 --> 00:00:11,900
+But you're slowing down.
+
+3
+00:00:12,400 --> 00:00:22,600
+Effort takes energy.
+
+4
+00:00:23,200 --> 00:00:29,750
+Make room to recover.
